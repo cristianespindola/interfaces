@@ -1,0 +1,30 @@
+#mainTitle{
+  padding: 25px;
+  font-style: italic;
+}
+#subtitle{
+  font-size: large ;
+  font-style: italic;
+  padding-left: 0%;
+}
+#containerMaterial{
+  text-align: left;
+  padding: 10px;
+  padding-left: 5%;
+}
+#sideBar{
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 100%;
+}
+#sideBarList{
+  list-style: none;
+}
+#imagecard {
+  height: 370px;
+  width: 220px;
+}
+#link {
+  padding-left: 80px;
+  padding-bottom: 25px;
+}

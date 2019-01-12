@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+target
+src/main/generated-sources/*
+src/test/generated-sources/*
+settings.xml
+travis.gpg
+maven_files.tar

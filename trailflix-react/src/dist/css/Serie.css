@@ -1,0 +1,24 @@
+
+#headerSerie, #videoDiv, #headerEpisodio, #videoDivEp {
+    text-align: center;
+}
+
+#btnvolver, #btnvolverep {
+    margin-top: 6%;
+}
+
+.btnSerie {
+    width: 200px;
+}
+
+.oi-arrow-circle-left {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.topright {
+    position: absolute;
+    top: 15px;
+    right: 20%;
+    font-size: 18px;
+}

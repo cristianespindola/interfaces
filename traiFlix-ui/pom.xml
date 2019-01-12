@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<repositories>
+		<repository>
+			<id>uqbar</id>
+			<name>Uqbar</name>
+			<url>http://maven.uqbar.org/releases/</url>
+		</repository>
+	</repositories>
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ui.unq.edu.ar</groupId>
+	<artifactId>traiFlix-ui</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+	<parent>
+		<groupId>org.uqbar-project</groupId>
+		<artifactId>arena-xtend-parent</artifactId>
+		<version>3.6.3</version>
+	</parent>
+
+	<dependencies>
+		<dependency>
+			<groupId>ui.unq.edu.ar</groupId>
+			<artifactId>TraiFlix</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+
+	<name>traiFlix-ui</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+</project>

@@ -1,0 +1,17 @@
+#headerPelicula, #videoDiv, #videoDivEp {
+    text-align: center;
+}
+
+#divuser, #divuserep {
+    margin-left: auto;
+    text-align: center;
+    width: 20%;
+}
+
+#btnvolver, #btnvolverep {
+    margin-top: 6%;
+}
+
+.btnPelicula {
+    width: 200px;
+}

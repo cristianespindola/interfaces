@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 1200px) {
+  .imageCard {
+    height: auto;
+    width: auto;
+  }
+}
+
+#containerAppLogin {
+    margin-top: 10%;
+}
+
+#tituloAppLogin {
+    text-align: center;
+}
+
+#usuarioInput {
+    width: 50%;
+}
+
+#btnlogin {
+    margin-left: 48%;
+}
